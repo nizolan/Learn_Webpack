@@ -1,0 +1,15 @@
+.title {
+  color: #12345678;
+  font-weight: 700;
+  font-size: 30px;
+
+  user-select: none;
+}
+
+:fullscreen {
+  color: red;
+}
+
+.content {
+  user-select: none;
+}
